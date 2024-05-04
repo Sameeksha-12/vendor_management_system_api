@@ -10,13 +10,13 @@ This repository contains a RESTful API built using Django REST Framework for man
 
 ## CLone the Repository
 - use git command to clone the repo
--git clone https://github.com/Sameeksha-12/vendor_management_system_api.git
+- git clone https://github.com/Sameeksha-12/vendor_management_system_api.git
 
 ## Install Dependencies:
 - pip install django
 - pip install djangorestframework
 - or use the requirements.txt file and run pip install -r requirements.txt
-- 
+  
 ## Setup the Database                    
 - python manage.py makemigrations      
 - python manage.py migrate
